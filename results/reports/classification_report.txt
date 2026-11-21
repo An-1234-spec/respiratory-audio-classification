@@ -1,0 +1,14 @@
+CNN-LSTM Respiratory Sound Classification
+Test Set Evaluation
+============================================================
+
+              precision    recall  f1-score   support
+
+      Normal     0.7152    0.4085    0.5200       541
+     Crackle     0.3050    0.3629    0.3314       237
+      Wheeze     0.0400    0.0879    0.0550        91
+        Both     0.0917    0.3226    0.1429        31
+
+    accuracy                         0.3611       900
+   macro avg     0.2880    0.2955    0.2623       900
+weighted avg     0.5174    0.3611    0.4103       900
